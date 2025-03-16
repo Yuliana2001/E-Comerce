@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\pruebaAlmacen.bundle.scp.css",
+      "PackagePath": "staticwebassets\\pruebaAlmacen.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240408222526524.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240408222526524.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240409002114883.png",
+      "PackagePath": "staticwebassets\\Products\\20240409002114883.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240409002608998.jpeg",
+      "PackagePath": "staticwebassets\\Products\\20240409002608998.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240409103351845.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240409103351845.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240409103428333.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240409103428333.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240409103540029.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240409103540029.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240412185549558.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240412185549558.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240412185815181.png",
+      "PackagePath": "staticwebassets\\Products\\20240412185815181.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240412235112855.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240412235112855.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240413161803777.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240413161803777.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240413161829662.png",
+      "PackagePath": "staticwebassets\\Products\\20240413161829662.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240414000615293.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240414000615293.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240430164955566.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430164955566.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240501142936815.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240501142936815.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240501150306250.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240501150306250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240501153553560.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240501153553560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240501153624426.png",
+      "PackagePath": "staticwebassets\\Products\\20240501153624426.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240501212600606.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240501212600606.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240505120020300.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240505120020300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240505120744423.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240505120744423.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240601212342805.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240601212342805.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240601213110103.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240601213110103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240601214218538.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240601214218538.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240601215705687.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240601215705687.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240601222537641.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240601222537641.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240601223648978.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240601223648978.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\20240601231707211.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240601231707211.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\Products\\8806090667831-ok.png",
+      "PackagePath": "staticwebassets\\Products\\8806090667831-ok.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\css\\Factura.css",
+      "PackagePath": "staticwebassets\\css\\Factura.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\css\\barraIndex.css",
+      "PackagePath": "staticwebassets\\css\\barraIndex.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\css\\estiloAdmin.css",
+      "PackagePath": "staticwebassets\\css\\estiloAdmin.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\css\\estilos.css",
+      "PackagePath": "staticwebassets\\css\\estilos.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\photosBendi\\ahorro.jpg",
+      "PackagePath": "staticwebassets\\photosBendi\\ahorro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\photosBendi\\bendicion.png",
+      "PackagePath": "staticwebassets\\photosBendi\\bendicion.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\photosBendi\\cangrejo.png",
+      "PackagePath": "staticwebassets\\photosBendi\\cangrejo.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\photosBendi\\exito.jpg",
+      "PackagePath": "staticwebassets\\photosBendi\\exito.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\photosBendi\\login.png",
+      "PackagePath": "staticwebassets\\photosBendi\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\photosBendi\\mueble.jpg",
+      "PackagePath": "staticwebassets\\photosBendi\\mueble.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuliana\\source\\repos\\SuiteSerenityAPI\\pruebaAlmacen\\wwwroot\\photosBendi\\personas_nevera.jpg",
+      "PackagePath": "staticwebassets\\photosBendi\\personas_nevera.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.pruebaAlmacen.props",
+      "PackagePath": "build\\pruebaAlmacen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.pruebaAlmacen.props",
+      "PackagePath": "buildMultiTargeting\\pruebaAlmacen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.pruebaAlmacen.props",
+      "PackagePath": "buildTransitive\\pruebaAlmacen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.pruebaAlmacen.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
